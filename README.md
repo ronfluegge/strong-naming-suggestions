@@ -1,0 +1,2 @@
+strong-naming-suggestions
+=========================
